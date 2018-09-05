@@ -45,7 +45,7 @@ function doAction(data) {
 } 
 ```
 What will be displayed in the browser when previewing the page?
-
+The answer is 3
 Choose the correct answer
 
 1) 012345
